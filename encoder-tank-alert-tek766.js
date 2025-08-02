@@ -54,14 +54,3 @@ function encodeDownlink(input) {
     errors: ["Campos obrigatórios: 'param' (string), 'value' (number).", debug]
   };
 }
-// Exemplo de uso para mudar o tempo de transmissão
-/* 
-{
-  "data": {
-    "param": "tx_period",
-    "value": 0
-  }
-}
-
-
-*/
