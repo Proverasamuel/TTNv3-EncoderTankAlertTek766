@@ -24,6 +24,7 @@ Modificar remotamente o tempo de envio dos dados do sensor TEK 766 de **6 horas*
  encoder-tank-alert-tek766.js # Script principal para envio de payload
 ├── payloads/
 │ └── set-interval-1h.json # Payload exemplo para mudar tempo de envio
+      gerador-payload.html
 └── README.md # Este arquivo
 
 
